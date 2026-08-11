@@ -1,0 +1,1 @@
+ghi lại từng lần chạy
