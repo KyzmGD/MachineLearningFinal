@@ -16,8 +16,10 @@ Notebook final đã được đặt tại [notebooks/final/CICIDS2018_Network_An
 | 1 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
 | 2 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
 | 3 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
+| 4 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
+| 5 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
 
-Cần thay các ô in nghiêng bằng thông tin thật trước khi nộp. Phân công chi tiết ghi tại [docs/member_contributions.md](docs/member_contributions.md).
+Phân công chi tiết ghi tại [docs/member_contributions.md](docs/member_contributions.md).
 
 ## 2. Bài toán
 
