@@ -213,13 +213,12 @@ Không commit dataset lớn, file kaggle.json, model binary hoặc artifact cá 
     │   └── models/README.md
     ├── docs/
     │   ├── experiment_notes.md
-    │   └── member_contributions.md
     ├── notebooks/
     │   ├── final/
     │   │   └── CICIDS2018_Network_Anomaly_Detection_Final.ipynb
     │   └── weekly/
     ├── results/
-    │   └── notes.md
+    │   └── cicids2018_final_artifacts.zip
     └── README.md
 
 Các notebook weekly là quá trình phát triển trước đó. Kết quả chính và nội dung bảo vệ cuối kỳ phải lấy từ notebook final.
