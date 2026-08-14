@@ -13,13 +13,12 @@ Notebook final đã được đặt tại [notebooks/final/CICIDS2018_Network_An
 
 | STT | Họ và tên | MSSV | Phần phụ trách |
 |---:|---|---|---|
-| 1 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
-| 2 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
-| 3 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
-| 4 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
-| 5 | *Điền thông tin* | *Điền MSSV* | *Điền phần phụ trách* |
+| 1 | Vũ Tuấn Đạt           | BIT240055 | Đọc CICIDS2018; làm sạch; cân bằng; chia Train/Validation/Test 70/15/15 |
+| 2 | Vũ Minh Đức           | BIT240066 | Xây dựng, huấn luyện CNN1D |
+| 3 | Hoàng Phúc Vinh       | BIT240255 | Chuẩn bị sequence input; huấn luyện BiLSTM |
+| 4 | Nguyễn Ngọc Tuấn Linh | BIT240140 | Hoàn thiện Transformer; trực quan hóa attention và live demo |
+| 5 | Mai Đức Minh          | BIT240151 | Xây dựng mô hình mạng nơ-ron truyền thống |
 
-Phân công chi tiết ghi tại [docs/member_contributions.md](docs/member_contributions.md).
 
 ## 2. Bài toán
 
@@ -214,13 +213,12 @@ Không commit dataset lớn, file kaggle.json, model binary hoặc artifact cá 
     │   └── models/README.md
     ├── docs/
     │   ├── experiment_notes.md
-    │   └── member_contributions.md
     ├── notebooks/
     │   ├── final/
     │   │   └── CICIDS2018_Network_Anomaly_Detection_Final.ipynb
     │   └── weekly/
     ├── results/
-    │   └── notes.md
+    │   └── cicids2018_final_artifacts.zip
     └── README.md
 
 Các notebook weekly là quá trình phát triển trước đó. Kết quả chính và nội dung bảo vệ cuối kỳ phải lấy từ notebook final.
