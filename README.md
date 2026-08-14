@@ -9,6 +9,8 @@
 
 Notebook final đã được đặt tại [notebooks/final/CICIDS2018_Network_Anomaly_Detection_Final.ipynb](notebooks/final/CICIDS2018_Network_Anomaly_Detection_Final.ipynb).
 
+Link báo cáo cuối kì : https://docs.google.com/document/d/1PAoc3A6NOo2a0nszF9b5nzsBqkTHBH_IVwrM67iADY4/edit?usp=sharing
+
 ## 1. Thành viên nhóm
 
 | STT | Họ và tên | MSSV | Phần phụ trách |
